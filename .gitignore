@@ -1,4 +1,7 @@
 __pycache__
 .cache
 .pyc
-
+/bin
+/lib
+pyvenv.cfg
+pip-selfcheck.json
